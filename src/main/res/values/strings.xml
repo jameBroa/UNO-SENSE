@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">properAttempt</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="humi">HUMI</string>
+    <string name="temp">TEMP</string>
+    <string name="todays_status_is">Todays status is:</string>
+    <string name="co2">CO2</string>
+    <string name="tvoc">TVOC</string>
+    <string name="pm10">PM10</string>
+    <string name="pm2_5">PM2.5</string>
+    <string name="logo_of_the_company">logo of the company</string>
+    <string name="_17_20">17:20</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
